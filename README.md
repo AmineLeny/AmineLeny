@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Laanaya Amine</h1>
 <h3 align="center">A passionate Software Engineering student from Morocco 🧑‍💻</h3> 
 <h3 align="center">Currently pursuing a software engineering degree at the National Institute of Posts and Telecommunications @INPT</h3>
+<h3 align="center">Connect with me 🤝 </h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aminelny" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmineLeny&label=Profile%20views&color=0e75b6&style=flat" alt="AmineLeny" />
-  <img src="https://img.shields.io/github/followers/AmineLeny?label=Followers&color=0e75b6&style=flat-square" alt="followers-count" /> 
+  
+
+
+
+
+
+<div align="center">
+ 
+  <img src="https://profile-counter.glitch.me/AmineLeny/count.svg?"  />
+</div>
+
+###
   
    
 
@@ -20,11 +36,11 @@
 - 🌱 I’m currently learning **Java, C++, Web dev (HTML, CSS, JavaScript), DevOps (Terraform, Docker)**
 - ⚡ Fun fact: I love exploring technology and hacking!
 
-</div>
 
 
 
-<br><br><br>
+
+<br>
 
 
 
@@ -32,6 +48,7 @@
 
 
 ---
+
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmineLeny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -70,32 +87,13 @@
 </div>
 
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="background-color:#0d1117; padding:10px; border-radius:10px;">
-  <a href="https://linkedin.com/in/aminelny" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
