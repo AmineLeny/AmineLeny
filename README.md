@@ -2,6 +2,11 @@
 <h3 align="center">A passionate Software Engineering student from Morocco 🧑‍💻 <a style="marginp: 0px;" href="https://linkedin.com/in/aminelny" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="linkedin" height="30" width="30"" />
   </a></h3> 
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/AMineleny/count.svg?"  />
+</div>
+
+###
 
 
 
