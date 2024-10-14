@@ -14,10 +14,8 @@
 
 
 
-<div align="center">
- 
-  <img src="https://profile-counter.glitch.me/AmineLeny/count.svg?"  />
-</div>
+
+
 
 ###
   
@@ -57,14 +55,15 @@
 
 ###
  ---
-<img src="https://raw.githubusercontent.com/AMineleny/AMineleny/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ###
 
-<h3 align="left">Languages and Tools:</h3>
 
-<div align="left">
+<h3 align="center">Languages and Tools:</h3>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -88,6 +87,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmineLeny/AmineLeny/output/snake.svg" alt="Snake animation" />
+</p>
 
 
 ###
