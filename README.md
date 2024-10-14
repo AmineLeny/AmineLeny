@@ -104,7 +104,7 @@
 ### 📊 GitHub Stats
 <p align="center" style="background-color:#0d1117; padding:10px; border-radius:10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmineLeny&show_icons=true&theme=dark" alt="AmineLeny" />
-    
+    <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineLeny&theme=dark" alt="AmineLeny" />
 </p>
 
