@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laanaya Amine</h1>
 <h3 align="center">A passionate Software Engineering student from Morocco 🧑‍💻</h3> 
-<h3 align="center">Currently pursuing a software engineering degree at the National Institute of Posts and Telecommunications @INPT</h3>
 <h3 align="center">Connect with me 🤝 </h3>
 <p align="center">
   <a href="https://linkedin.com/in/aminelny" target="_blank">
@@ -28,7 +27,7 @@
 
   </div>
 <div style="width: 50%; padding-top: 50px;">
-<br><br>
+<br><br><br>
 
 - 🔭 I’m currently working on [Your Project](https://github.com/yourusername/yourproject)
 - 🌱 I’m currently learning **Java, C++, Web dev (HTML, CSS, JavaScript), DevOps (Terraform, Docker)**
