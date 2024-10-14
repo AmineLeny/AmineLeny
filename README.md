@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Laanaya Amine</h1>
-<h3 align="center">A passionate Software Engineering student from Morocco 🧑‍💻</h3> 
-<h3 align="center">Connect with me 🤝 </h3>
-<p align="center">
-  <a href="https://linkedin.com/in/aminelny" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
+<h3 align="center">A passionate Software Engineering student from Morocco 🧑‍💻 <a style="marginp: 0px;" href="https://linkedin.com/in/aminelny" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="linkedin" height="30" width="30"" />
+  </a></h3> 
+
+
+
+
+
+
+
  <p align="center">
   
 
