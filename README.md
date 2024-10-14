@@ -57,7 +57,9 @@
 
 ###
  ---
+<img src="https://raw.githubusercontent.com/AMineleny/AMineleny/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 <h3 align="left">Languages and Tools:</h3>
