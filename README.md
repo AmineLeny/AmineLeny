@@ -26,7 +26,7 @@
  <img align="right" align="center" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lsc2E3ZmZhemZqYnRqaXo0NTVleXZ4Nmk4dDNlaXcyeWZrZWw0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp"  />
 
   </div>
-<div style="width: 50%; padding-top: 50px;">
+<div style="width: 50%; padding-top: 0px;">
 <br><br><br>
 
 - 🔭 I’m currently working on [Your Project](https://github.com/yourusername/yourproject)
