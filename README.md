@@ -3,12 +3,12 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="linkedin" height="30" width="30"" />
   </a></h3> 
   <div align="center">
-  <img src="https://profile-counter.glitch.me/AMineleny/count.svg?"  />
+      
+![image](https://github.com/user-attachments/assets/39aea772-6596-4ad8-be9a-1347e505d349)
 </div>
 
 ###
 
-![image](https://github.com/user-attachments/assets/39aea772-6596-4ad8-be9a-1347e505d349)
 
 
 
