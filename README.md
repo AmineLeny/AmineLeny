@@ -7,7 +7,9 @@
 ![image](https://github.com/user-attachments/assets/39aea772-6596-4ad8-be9a-1347e505d349)
 </div>
 
-###
+
+
+---
 
 
 
@@ -25,7 +27,6 @@
 
 
 
-###
   
    
 
@@ -42,7 +43,7 @@
 - 🌱 I’m currently learning **Java, C++, Web dev (HTML, CSS, JavaScript), DevOps (Terraform, Docker)**
 - ⚡ Fun fact: I love exploring technology and hacking!
 
-<br><br><br>
+<br>
 
 
 
