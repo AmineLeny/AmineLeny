@@ -39,7 +39,6 @@
 <div style="width: 50%; padding-top: 0px;">
 <br><br>
 
-- 🔭 I’m currently working on [Your Project](https://github.com/yourusername/yourproject)
 - 🌱 I’m currently learning **Java, C++, Web dev (HTML, CSS, JavaScript), DevOps (Terraform, Docker)**
 - ⚡ Fun fact: I love exploring technology and hacking!
 
