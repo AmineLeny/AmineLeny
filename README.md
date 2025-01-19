@@ -40,7 +40,7 @@
 <br><br>
 
 - 🌱 I’m currently learning **Java, C++, Web dev (HTML, CSS, JavaScript), DevOps (Terraform, Docker)**
-- ⚡ Fun fact: I love exploring technology and hacking!
+
 
 <br>
 
