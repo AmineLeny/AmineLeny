@@ -39,7 +39,7 @@
 <div style="width: 50%; padding-top: 0px;">
 <br><br>
 
-- 🌱 I’m currently learning **Java, C++, Web dev (HTML, CSS, JavaScript), DevOps (Terraform, Docker)**
+- 🌱 I’m currently learning **Backend Engineering**
 
 
 <br>
