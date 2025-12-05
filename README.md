@@ -41,7 +41,7 @@
 
 
 
-<h3 align="center"> <h3 align="center">A passionate Software Engineering student from Morocco 🧑‍💻 <a style="marginp: 0px;" href="https://linkedin.com/in/aminelny" target="_blank"></h3>
+<h3 align="center"> <h3 align="center">A passionate Software Engineering student 🧑‍💻 <a style="marginp: 0px;" href="https://linkedin.com/in/aminelny" target="_blank"></h3>
 <br><br>
 <br><br>
 <br>Currently learning the fundamentals and exploring new technologies 💡
