@@ -44,7 +44,7 @@
 <h3 align="center"> <h3 align="center">A passionate Software Engineer 🧑‍💻 <a style="marginp: 0px;" href="https://linkedin.com/in/aminelny" target="_blank"></h3>
 <br><br>
 <br><br>
-<br>Currently learning the fundamentals and exploring new technologies 💡
+<br>Currently solidifying the fundamentals and exploring new technologies 💡
 <br><br>
 
 
